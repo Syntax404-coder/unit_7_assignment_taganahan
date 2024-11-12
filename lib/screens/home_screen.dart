@@ -40,7 +40,7 @@ class HomScreen extends StatelessWidget {
                 },
                 child: Container(
                   padding: EdgeInsets.symmetric(horizontal: 5, vertical: 2),
-                  child: Text('Click Me!',
+                  child: Text('Go to About Me',
                     style: TextStyle(
                         color: Color.fromRGBO(31, 31, 31, 1), fontSize: 20, fontWeight: FontWeight.w700)
                   )
